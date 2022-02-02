@@ -1,8 +1,9 @@
 ### Hello World, I'm Dylan  👋
-- ✍ You can find my projects here [website]
-- 🙌 I’m looking to join a team
-- 💬 Ask me about ... Anything
 
+### My recent projects
+- [Kostco Connect](https://kostcoconnect.herokuapp.com/) is a ticket system web application inspired by my time working at a warehouse and seeing the need for an increase in productivity and communication.
+- [Zing](https://app-zing.herokuapp.com/) is a slack clone, utilizing websockets to live update many changes around the application. It features workspaces, channels and messages.
+- [Sound Fi](https://sound-fi.herokuapp.com/) is a soundcloud clone with my own design that uses file upload with cloudinary's API and plays audio with React Audio Player.
 
 ### Talk with me, I am kinda awesome:
 [<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
