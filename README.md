@@ -5,9 +5,6 @@
 - [Zing](https://app-zing.herokuapp.com/) is a slack clone, utilizing websockets to live update many changes around the application. It features workspaces, channels and messages.
 - [Sound Fi](https://sound-fi.herokuapp.com/) is a soundcloud clone with my own design that uses file upload with cloudinary's API and plays audio with React Audio Player.
 
-### Talk with me, I am kinda awesome:
-[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
 <br />
 
 ### Languages and Tools:
@@ -35,7 +32,10 @@
 [![Dylan's GitHub stats](https://github-readme-stats.vercel.app/api?username=dylanwelzel)](https://github.com/dylanwelzel/github-readme-stats)
 
 <br />
----
+<br />
+
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dylan-welzel-107140221)[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dylanwelzel@gmail.com)[![image](https://img.shields.io/badge/AngelList-b6b9b9?style=for-the-badge&logo=AngelList&logoColor=black)](https://angel.co/u/dylan-welzel)
+
 
 [website]: https://dylanwelzel.com/
 [linkedin]: https://linkedin.com/in/dylan-welzel-107140221
