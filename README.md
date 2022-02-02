@@ -1,6 +1,4 @@
 ### Hello World, I'm Dylan  👋
-
-## I'm a Wife, Mother, Developer, Creator, and Mentor!!
 - ✍ You can find my projects here [website]
 - 🙌 I’m looking to join a team
 - 💬 Ask me about ... Anything
